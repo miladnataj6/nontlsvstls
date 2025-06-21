@@ -82,3 +82,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=poor
 trojan://Pooria@zula.ir:443?type=ws&host=pooria.divekot939.workers.dev&path=/trAie2oYHsv2KoweKf?ed%3D2560&security=tls&sni=pOorIa.DIVEkoT939.WOrKers.Dev&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA14
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=pooria.divekot939.workers.dev&path=/Aie2oYHsv2KoweKf?ed%3D2560&security=tls&sni=pOorIa.DIVEkoT939.WOrKers.Dev&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA15
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8080?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=none&advancedfragment=#%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8880?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=none&advancedfragment=#%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
